@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: artifactory-docker-artifactory.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/sjm-test-tas-python-2:812a905ac933e86b339d12cef795b8fe640d8a07@sha256:98e6ab4383c63a6c3721b4c25625464193ec36894a4e8cab7e5439d4961d31c2
+        - image: artifactory-docker-artifactory.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/sjm-test-tas-python-2:720d7cad00d45e7e4b5dbdcae0585362780b030f@sha256:9cf3974278fbe962e694ae977e56d7feada94a511b21b3bf4f4ec7c0f5e006c7
           name: container-image
