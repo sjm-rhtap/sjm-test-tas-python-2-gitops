@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sjm-test-tas-python-2-repository
+spec:
+  url: https://github.com/sjm-rhtap/sjm-test-tas-python-2
